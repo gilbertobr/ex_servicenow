@@ -12,6 +12,9 @@ Requirements:
 
 * URL ServiceNow x User(Email) x Password
 
+### This project can recognize all servicenow parameters, being able to make several filters
+
+#
 ## Built with
  [![Elixir][Elixir-lang.org]][Elixir-url]
 
